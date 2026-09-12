@@ -1,0 +1,6 @@
+﻿Class_Code,Flood_Potential_Class,FPI_Range,Area_km2,Percent
+1,Very Low,≤ 2.88,827.62,21.08
+2,Low,2.88–3.18,791.56,20.16
+3,Moderate,3.18–3.44,775.06,19.74
+4,High,3.44–3.70,780.5,19.88
+5,Very High,> 3.70,752.0,19.15

@@ -1,0 +1,13 @@
+﻿Criterion,Weight_Percent
+Elevation,14
+Slope,12
+TWI,12
+Distance from River,12
+Rainfall Intensity,10
+Drainage Density,10
+LULC,8
+Geomorphology,8
+Soil Texture,6
+SPI,4
+Distance from Road,2
+Distance from Settlement,2
